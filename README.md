@@ -5,7 +5,7 @@ Note that "book characters" contain a lot of writers as well, because they both 
 # Comparazer
 
 A spider-crawler written in Python with use of Scrapy and Spacy.
-It's main objective is to scrape a bunch of texts with a given thematic, for example "football players", extract names from it, then scrape sentiment on those names from internet and sort them by these sentiments.
+It's main objective is to scrape a bunch of texts with a given thematic, for example "football players", extract names from it, then scrape sentiment on those names from internet and compare names. Result is basically a list of 'best' football players.
 
 It's functionality is divided into 2 parts: Extractor and Affirmator.
 
