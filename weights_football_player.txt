@@ -1,6 +1,6 @@
-luka modric:0.19120955641788978
-luka modric:21.224260762385764
-luka modric:111.0
+luka modric:0.19120955641788978 # Average score
+luka modric:21.224260762385764 # Total score
+luka modric:111.0 # Count of occurences in texts
 cristiano ronaldo:0.17826336689863653
 cristiano ronaldo:43.85278825706459
 cristiano ronaldo:246.0
