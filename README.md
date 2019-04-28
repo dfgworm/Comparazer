@@ -1,4 +1,4 @@
-This repository includes a bunch of scraped examples: files prefixed with "names_" contain names and number of occurences of these names in scraped texts, while files with "weights_" contain same names sorted by sentiment, taken from the internet.
+This repository includes a bunch of scraped examples: files prefixed with "names_" contain names and number of occurences of these names in scraped texts, while files with "weights_" contain same names with Total Sentiment, and Average Sentiment(Which is Total divided by number of occurences).
 
 Note that "book characters" contain a lot of writers as well, because they both occur in the same context. This is a known issue which is not easy to fix. Otherwise algorithm works pretty accurately, at about 95% accuracy.
 
