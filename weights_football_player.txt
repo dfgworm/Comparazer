@@ -1,0 +1,63 @@
+luka modric:0.19120955641788978
+luka modric:21.224260762385764
+luka modric:111.0
+cristiano ronaldo:0.17826336689863653
+cristiano ronaldo:43.85278825706459
+cristiano ronaldo:246.0
+lionel messi:0.21088440522178656
+lionel messi:57.04423161249326
+lionel messi:270.5
+xavi:0.1708447601921283
+xavi:34.85233107919417
+xavi:204.0
+antoine griezmann:0.17014610389610388
+antoine griezmann:1.8716071428571428
+antoine griezmann:11.0
+mohamed salah:0.17945370370370373
+mohamed salah:2.691805555555556
+mohamed salah:15.0
+pelé:0.14536699991093135
+pelé:53.7857899670446
+pelé:370.0
+marco van basten:0.16417000102239088
+marco van basten:15.431980096104741
+marco van basten:94.0
+gareth bale:0.18178096874190627
+gareth bale:21.813716249028754
+gareth bale:120.0
+jerry rice:0.14190834571376443
+jerry rice:8.230684051398336
+jerry rice:58.0
+zinedine zidane:0.20281229839935216
+zinedine zidane:34.07246613109116
+zinedine zidane:168.0
+kylian mbappe:0.16795021498968868
+kylian mbappe:3.191054084804085
+kylian mbappe:19.0
+roberto mancini s:0.12144479695849558
+roberto mancini s:8.865470177970177
+roberto mancini s:73.0
+pele:0.1418855719401395
+pele:34.33630840951376
+pele:242.0
+diego maradona:0.18130282175574827
+diego maradona:33.631673435691305
+diego maradona:185.5
+steven gerrard:0.11062785841191931
+steven gerrard:14.934760885609107
+steven gerrard:135.0
+madison:0.039379704785954775
+madison:0.4725564574314573
+madison:12.0
+johan cruyff:0.15885984830347566
+johan cruyff:27.00617421159086
+johan cruyff:170.0
+odell beckham jr:0.11278658799547446
+odell beckham jr:12.744884443488614
+odell beckham jr:113.0
+tom brady:0.16362749887412883
+tom brady:22.25333984688152
+tom brady:136.0
+peyton manning:0.17269559059266848
+peyton manning:18.13303701223019
+peyton manning:105.0

@@ -1,0 +1,41 @@
+charles dickens:Charles Dickens:6.25
+jane austen:Jane Austen:4.166666666666667
+jules verne:Jules Verne:2
+geoffrey chaucer:Geoffrey Chaucer:2
+james joyce:James Joyce:4
+david copperfield:David Copperfield:2
+fyodor mikhailovich dostoyevsky:Fyodor Mikhailovich Dostoyevsky:3.0
+anna karenina:Anna Karenina:2.25
+franz kafka:Franz Kafka:2.0
+francis scott fitzgerald:Francis Scott Fitzgerald:2.0
+gabriel garcía márquez:Gabriel García Márquez:2.0
+stephen king:Stephen King:5
+j k rowling:J K Rowling:3
+suzanne collins:Suzanne Collins:2.0
+james patterson:James Patterson:2
+tom wolfe:Tom Wolfe:2.0
+emily bronte s:Emily Bronte s:2.5
+mary shelley s frankenstein:Mary Shelley s Frankenstein:2.0
+zadie smith:Zadie Smith:3
+jeff goins jeff goins:Jeff Goins Jeff Goins:2.5
+quora:Quora:2
+devante swing:DeVante Swing:2.0
+bush:Bush:2
+jesus:Jesus:2
+kurt vonnegut:Kurt Vonnegut:2
+fidel castro:Fidel Castro:2.0
+mick jones:Mick Jones:2.0
+ray davies:Ray Davies:2.0
+ernest hemingway:Ernest Hemingway:5.5
+william shakespeare:William Shakespeare:4
+oscar fingal:Oscar Fingal:2
+harry potter:Harry Potter:2
+aaron orendorff:Aaron Orendorff:2
+neil patel neil patel:Neil Patel Neil Patel:2.0
+rand fishkin rand fishkin:Rand Fishkin Rand Fishkin:2.0
+richard branson:Richard Branson:2
+oscar wilde:Oscar Wilde:2.0
+maya angelou:Maya Angelou:2.0
+tim ferriss:Tim Ferriss:2
+henry james:Henry James:2.0
+virginia woolf s:Virginia Woolf s:2.0

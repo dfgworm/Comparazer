@@ -1,0 +1,31 @@
+hermione granger:Hermione Granger:4.0
+harry potter:Harry Potter:6.125
+atticus finch:Atticus Finch:4
+charles dickens:Charles Dickens:3.142857142857143
+sherlock holmes:Sherlock Holmes:4
+benedict cumberbatch:Benedict Cumberbatch:3
+arthur conan doyle:Arthur Conan Doyle:4.833333333333333
+walker percy:Walker Percy:4.0
+jay gatsby:Jay Gatsby:3
+scarlett o hara:Scarlett O Hara:3
+margaret mitchell:Margaret Mitchell:3
+jane eyre:Jane Eyre:4
+holly golightly:Holly Golightly:3
+james bond:James Bond:3.0714285714285716
+holden caulfield:Holden Caulfield:3.5
+peter pan:Peter Pan:3
+bilbo baggins:Bilbo Baggins:3.0
+raymond chandler:Raymond Chandler:3
+franz kafka:Franz Kafka:3.0
+pippi longstocking:Pippi Longstocking:3
+alice:Alice:5
+ian fleming:Ian Fleming:3
+leo tolstoy:Leo Tolstoy:3.0
+hannibal lecter choose:Hannibal Lecter choose:3.0
+harper lee:Harper Lee:3
+j k rowling:J K Rowling:3
+tinker bell:Tinker Bell:3.0
+hatter:Hatter:3
+frankenstein victor frankenstein:Frankenstein Victor Frankenstein:3.142857142857143
+j r r tolkien:J R R Tolkien:3.0
+stan lee:Stan Lee:3

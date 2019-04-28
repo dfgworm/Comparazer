@@ -1,0 +1,78 @@
+shaquille o'neal:0.06900937182394327
+shaquille o'neal:25.87851443397873
+shaquille o'neal:375.0
+jerry west:0.102067946328363
+jerry west:3.06203838985089
+jerry west:30.0
+wilt chamberlain:0.08951732908798125
+wilt chamberlain:4.117797138047138
+wilt chamberlain:46.0
+michael jordan:0.09405904578457486
+michael jordan:31.321662246263426
+michael jordan:333.0
+carmelo anthony:0.04475639698553136
+carmelo anthony:6.556812158380344
+carmelo anthony:146.5
+kevin garnett:0.05709903144946395
+kevin garnett:7.622720698503437
+kevin garnett:133.5
+dwyane wade:0.1420713903100267
+dwyane wade:3.1255705868205874
+dwyane wade:22.0
+dirk:0.04448513496307614
+dirk:0.7562472943722944
+dirk:17.0
+isiah thomas:0.10210669104193476
+isiah thomas:6.960272772691881
+isiah thomas:68.16666666666661
+hakeem olajuwon:0.11582438508777795
+hakeem olajuwon:8.571004496495569
+hakeem olajuwon:74.0
+tim duncan:0.12142525441223569
+tim duncan:22.706522575088073
+tim duncan:187.0
+bill russell:0.11146294718997571
+bill russell:25.52501490650444
+bill russell:229.0
+larry bird:0.10906491118561937
+larry bird:16.94141620416621
+larry bird:155.33333333333334
+magic johnson:0.10886056850840937
+magic johnson:35.815127039266685
+magic johnson:329.0
+kareem abdul jabbar:0.10552948760814611
+kareem abdul jabbar:10.816772479834976
+kareem abdul jabbar:102.5
+jason kidd:0.09072062364069729
+jason kidd:16.238991631684815
+jason kidd:179.0
+lebron james:0.09205917835276457
+lebron james:26.2368658305379
+lebron james:285.0
+dwight howard:0.08548098083377789
+dwight howard:3.4406094785595602
+dwight howard:40.25
+russell westbrook:0.09531024150696038
+russell westbrook:20.01515071646168
+russell westbrook:210.0
+derrick rose:0.2584053872053872
+derrick rose:6.46013468013468
+derrick rose:25.0
+kevin durant:0.07410028084107281
+kevin durant:6.780175696958163
+kevin durant:91.5
+milwaukee bucks:0.1595238095238095
+milwaukee bucks:0.319047619047619
+milwaukee bucks:2.0
+shaquille o neal:0.11149147590624862
+shaquille o neal:2.4528124699374696
+shaquille o neal:22.0
+anthony davis:0.044824556367255984
+anthony davis:8.778142288587638
+anthony davis:195.8333333333335
+oscar robertson:0.09066368493440431
+oscar robertson:12.058270096275773
+oscar robertson:133.0
+ben simmons:0.14315640216861383
+ben simmons:9.591478945297126
+ben simmons:67.0

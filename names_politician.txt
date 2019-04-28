@@ -1,0 +1,22 @@
+abraham lincoln:Abraham Lincoln:6
+winston churchill:Winston Churchill:6.0
+george h w bush:George H W Bush:3.125
+bill clinton:Bill Clinton:6.0
+george w bush:George W Bush:5.125
+franklin d roosevelt:Franklin D Roosevelt:4
+barack obama:Barack Obama:9.5
+michelle obama:Michelle Obama:3
+joe biden:Joe Biden:5.0
+harry reid:Harry Reid:3.0
+marco rubio:Marco Rubio:3
+jimmy carter:Jimmy Carter:3.0
+hitler:Hitler:4
+ronald reagan:Ronald Reagan:6.333333333333333
+donald trump:Donald Trump:10
+paul ryan:Paul Ryan:5
+johnson:Johnson:3
+hillary clinton:Hillary Clinton:7.25
+ron paul:Ron Paul:3
+dwight d eisenhower:Dwight D Eisenhower:3.0
+vladimir putin:Vladimir Putin:5.0
+margaret thatcher:Margaret Thatcher:3

@@ -1,0 +1,26 @@
+shaquille o'neal:Shaquille O'Neal:5.0
+jerry west:Jerry West:6
+wilt chamberlain:Wilt Chamberlain:8
+michael jordan:Michael Jordan:17
+carmelo anthony:Carmelo Anthony:4
+kevin garnett:Kevin Garnett:5
+dwyane wade:Dwyane Wade:7
+dirk:Dirk:4
+isiah thomas:Isiah Thomas:4.166666666666667
+hakeem olajuwon:Hakeem Olajuwon:4.0
+tim duncan:Tim Duncan:6.0
+bill russell:Bill Russell:6.0
+larry bird:Larry Bird:11.166666666666666
+magic johnson:Magic Johnson:9.0
+kareem abdul jabbar:Kareem Abdul Jabbar:6.75
+jason kidd:jason kidd:5.0
+lebron james:LeBron James:14.333333333333334
+dwight howard:Dwight Howard:4.25
+russell westbrook:RUSSELL WESTBROOK:4.0
+derrick rose:Derrick Rose:4
+kevin durant:Kevin Durant:5.0
+milwaukee bucks:Milwaukee Bucks:4
+shaquille o neal:Shaquille O Neal:5.0
+anthony davis:Anthony Davis:4.333333333333333
+oscar robertson:Oscar Robertson:5.0
+ben simmons:Ben Simmons:4.0

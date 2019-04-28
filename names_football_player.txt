@@ -1,0 +1,21 @@
+luka modric:Luka Modric:4
+cristiano ronaldo:Cristiano Ronaldo:14.0
+lionel messi:Lionel Messi:10
+xavi:Xavi:3
+antoine griezmann:Antoine Griezmann:3
+mohamed salah:Mohamed Salah:4
+pelé:Pelé:3
+marco van basten:Marco van Basten:3
+gareth bale:Gareth Bale:3
+jerry rice:Jerry Rice:3
+zinedine zidane:Zinedine Zidane:6.0
+kylian mbappe:Kylian Mbappe:3
+roberto mancini s:Roberto Mancini s:3.0
+pele:Pele:4
+diego maradona:Diego Maradona:4.0
+steven gerrard:Steven Gerrard:3
+madison:Madison:3
+johan cruyff:Johan Cruyff:4.0
+odell beckham jr:Odell Beckham Jr:3.0
+tom brady:Tom Brady:3.0
+peyton manning:Peyton Manning:3

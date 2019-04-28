@@ -1,0 +1,78 @@
+charles dickens:0.09928655513495953
+charles dickens:43.95912228600333
+charles dickens:442.75
+jane austen:0.14239357044943704
+jane austen:11.818666347303298
+jane austen:83.00000000000016
+jules verne:0.12868656410207008
+jules verne:57.26552102542118
+jules verne:445.0
+geoffrey chaucer:0.16655665317625287
+geoffrey chaucer:20.653024993855357
+geoffrey chaucer:124.0
+james joyce:0.07889937276398949
+james joyce:31.822747014808673
+james joyce:403.33333333332797
+david copperfield:0.07866191409434807
+david copperfield:12.546575298048518
+david copperfield:159.5
+fyodor mikhailovich dostoyevsky:0.02141661474047837
+fyodor mikhailovich dostoyevsky:0.47116552429052416
+fyodor mikhailovich dostoyevsky:22.0
+anna karenina:0.07009179094679542
+anna karenina:13.685422182361807
+anna karenina:195.25
+franz kafka:0.10529594103998868
+franz kafka:11.687849455438744
+franz kafka:111.0
+francis scott fitzgerald:0.169663639745671
+francis scott fitzgerald:10.858472943722944
+francis scott fitzgerald:64.0
+gabriel garcía márquez:0.18145743145743146
+gabriel garcía márquez:3.447691197691198
+gabriel garcía márquez:19.0
+stephen king:0.1184313271604938
+stephen king:4.737253086419752
+stephen king:40.0
+j k rowling:0.19811767676767678
+j k rowling:4.952941919191919
+j k rowling:25.0
+suzanne collins:0.09513786676286677
+suzanne collins:4.2812040043290045
+suzanne collins:45.0
+james patterson:0.15228053976553244
+james patterson:25.633890860531267
+james patterson:168.33333333333314
+tom wolfe:0.13018266266357623
+tom wolfe:13.40881425434835
+tom wolfe:103.0
+emily bronte s:0.09147886406255813
+emily bronte s:4.528203771096628
+emily bronte s:49.5
+mary shelley s frankenstein:0.11391354054026362
+mary shelley s frankenstein:6.493071810795026
+mary shelley s frankenstein:57.0
+zadie smith:0.21424242424242426
+zadie smith:1.0712121212121213
+zadie smith:5.0
+jeff goins jeff goins:0.05922077922077921
+jeff goins jeff goins:0.20727272727272722
+jeff goins jeff goins:3.5
+quora:0.07520423775570834
+quora:2.5569440836940833
+quora:34.0
+devante swing:0.007323232323232311
+devante swing:0.0659090909090908
+devante swing:9.0
+bush:0.2238775510204082
+bush:1.5671428571428574
+bush:7.0
+jesus:0.08337371585461861
+jesus:15.00726885383135
+jesus:180.0
+kurt vonnegut:0.1561267436267436
+kurt vonnegut:1.8735209235209234
+kurt vonnegut:12.0
+fidel castro:0.0603526419925571
+fidel castro:28.90891551443485
+fidel castro:479.0

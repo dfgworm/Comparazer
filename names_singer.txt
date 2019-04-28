@@ -1,0 +1,26 @@
+michael jackson:Michael Jackson:8.0
+frank sinatra:Frank Sinatra:4.25
+axl rose:Axl Rose:3
+elvis presley:Elvis Presley:5
+madonna:Madonna:3
+celine dion:CELINE DION:3.0
+whitney houston:whitney houston:8.0
+mariah carey:Mariah Carey:3.1666666666666665
+john lennon:John Lennon:4.0
+robert plant:Robert Plant:3
+aretha franklin:Aretha Franklin:5
+david bowie:David Bowie:3
+katy perry:Katy Perry:3
+johnny cash:Johnny Cash:3
+luciano pavarotti:Luciano Pavarotti:4.0
+paul mccartney:Paul McCartney:3
+beatles:Beatles:3
+ray charles:Ray Charles:3
+james brown:James Brown:3.3333333333333335
+motown:Motown:3
+amy winehouse:Amy Winehouse:3
+stevie nicks:Stevie Nicks:4.0
+ella fitzgerald:Ella Fitzgerald:4
+louis armstrong:Louis Armstrong:4.0
+leonard cohen:Leonard Cohen:3.0
+liam clancy tommy makem:Liam Clancy Tommy Makem:3.0
