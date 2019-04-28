@@ -1,6 +1,6 @@
-charles dickens:0.09928655513495953
-charles dickens:43.95912228600333
-charles dickens:442.75
+charles dickens:0.09928655513495953 # Average score
+charles dickens:43.95912228600333 # Total score
+charles dickens:442.75 # Count of occurences in texts
 jane austen:0.14239357044943704
 jane austen:11.818666347303298
 jane austen:83.00000000000016
