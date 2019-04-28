@@ -1,6 +1,6 @@
-shaquille o'neal:0.06900937182394327
-shaquille o'neal:25.87851443397873
-shaquille o'neal:375.0
+shaquille o'neal:0.06900937182394327 # Average score
+shaquille o'neal:25.87851443397873 # Total score
+shaquille o'neal:375.0 # Count of occurences in texts
 jerry west:0.102067946328363
 jerry west:3.06203838985089
 jerry west:30.0
